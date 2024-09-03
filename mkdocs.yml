@@ -1,0 +1,4 @@
+site_name: My MkDocs Material Documentation
+site_url: https://sitename.example
+theme:
+  name: material
