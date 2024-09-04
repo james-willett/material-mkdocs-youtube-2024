@@ -7,6 +7,8 @@ theme:
     code: Red Hat Mono
   logo: assets/logo.png
   favicon: assets/favicon.ico
+  features:
+    - navigation.footer
   palette:
     # Dark Mode
     - scheme: slate
@@ -44,3 +46,12 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+
+extra:
+  social:
+    - icon: simple/youtube
+      link: https://youtube.com/@james-willett
+    - icon: simple/linkedin
+      link: https://linkedin.com/in/willettjames
+
+copyright: Copyright &copy; 2024 James Willett
